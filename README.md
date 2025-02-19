@@ -27,8 +27,7 @@ git clone git@github.com:golnaaz/pokemon-app.git
 3. Sync **Gradle** and Run the app 🚀
 
 ## **📸 Screenshots**
-| Main Screen | Detail Screen | Favorite Screen |
-|-------------|----------------|
+
 <img src="https://github.com/user-attachments/assets/930caebc-17ee-4b82-aa8d-7c552d1f7177" alt="Alt Text" width="300" height="650">
 <img src="https://github.com/user-attachments/assets/8ed0c651-9083-4134-b65c-aa45c1a20471" alt="Alt Text" width="300" height="650">
 <img src="https://github.com/user-attachments/assets/812ce653-8e63-4a96-961c-d523a3d34018" alt="Alt Text" width="300" height="650">
