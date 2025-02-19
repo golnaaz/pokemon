@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "pokemon"
 include(":app")
- 
+include(":api")
+include(":storage")
